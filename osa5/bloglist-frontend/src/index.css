@@ -1,0 +1,56 @@
+.success{
+  height: 20px;
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 3px;
+  margin-bottom: 10px;
+  visibility:visible;
+}
+
+.error{
+  height: 20px;
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 3px;
+  margin-bottom: 10px;
+  visibility:visible;
+}
+
+.hidden{
+  height: 20px;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 3px;
+  margin-bottom: 10px;
+  visibility: hidden;
+}
+
+.toggleContent{
+  margin-top: 10;
+  line-height: 2;
+}
+
+.blog{
+  color: rgb(43, 43, 43);
+  background: rgb(235, 235, 235);
+  font-size: 15px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 3px;
+}
+
+.blogViewButton{
+  margin-top: 0;
+  font-size: 11px;
+  background-color: lightblue;
+  font-weight: bold;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
